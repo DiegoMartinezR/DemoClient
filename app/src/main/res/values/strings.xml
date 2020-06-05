@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EstanciadoU</string>
+    <string name="app_nameIcon">EstanciadoU</string>
+    <string name="titte_app">EstanciadoU para Estudiante</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
